@@ -12,6 +12,8 @@ I love working with cold atoms and quantum computers. Here is some modelling tha
 
 - [Raman gate infidelity](/)
 
+- [SLM Phase masks](/)
+
 
 # Projects
 
