@@ -5,7 +5,7 @@
 ### Ising model with different interactions. Monte-Carlo study.
 
 [Project 1 Title](/sample_page)
-<img src="images/Ising_logo.jpg?raw=true"/>
+<img src="images/Ising_Logo.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
