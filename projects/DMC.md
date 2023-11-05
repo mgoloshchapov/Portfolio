@@ -5,4 +5,4 @@ Diffusion Monte-Carlo(DMC) is a useful tool for computing groundstate wavefuncti
 [Here]() I implement the DMC algorithm and test it on several 
 basic systems: harmonic oscillator, double well, Hydrogen atom.
 
-![DMC groundstate for harmonic oscillator](projects/sources/harmonic.jpg)
+![DMC groundstate for harmonic oscillator](/projects/sources/harmonic.jpg)
