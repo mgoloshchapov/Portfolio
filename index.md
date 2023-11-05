@@ -51,8 +51,6 @@ Quantum Monte-Carlo and Exact diagonalization for some basic models from quantum
 
 ---
 
-# Cool things on different topics
-
 ## Projects in physics
 Here are some experimental projects in physics that I've made:
 
