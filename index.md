@@ -2,17 +2,17 @@
 
 I love working with cold atoms and quantum computers. Here is some modelling that I've made in my laboratory:
 
-- [MCMC Sampler for atom in the dipole trap](/)
+- [MCMC Sampler for atom in the dipole trap]
   
-- [Laser phase noise & Qubit](/)
+- [Laser phase noise & Qubit]
 
-- [Atom temperature: Release & Recapture](/)
+- [Atom temperature: Release & Recapture]
 
-- [Trap parameters: Parametric excitation](/)
+- [Trap parameters: Parametric excitation]
 
-- [Raman gate infidelity](/)
+- [Raman gate infidelity]
 
-- [SLM Phase masks](/)
+- [SLM Phase masks]
 
 
 # Projects
@@ -21,15 +21,15 @@ I love working with cold atoms and quantum computers. Here is some modelling tha
 
 Ising models with different types of interactions are studied using single-spin flip Monte-Carlo: 
 
-- [Ferro- and antiferromagnetic](/sample_page)
+- [Ferro- and antiferromagnetic]
   
-- [Next-nearest neighbour & Dipolar interactions](/)
+- [Next-nearest neighbour & Dipolar interactions]
   
-- [Random-bond Ising phase diagram](/)
+- [Random-bond Ising phase diagram]
   
-- [Domain wall pinning & Magnetic memory](/)
+- [Domain wall pinning & Magnetic memory]
 
-- [CNN classification of temperature](/)
+- [CNN classification of temperature]
 
 
 <img src="images/Ising_Logo.jpg?raw=true"/>
@@ -40,13 +40,13 @@ Ising models with different types of interactions are studied using single-spin 
 
 Quantum Monte-Carlo and Exact diagonalization for some basic models from quantum mechanics and many-body physics:
 
-- [Stochastic Series Expansion & Heisenberg model](/)
+- [Stochastic Series Expansion & Heisenberg model]
 
-- [Diffusion Monte-Carlo & Hydrogen atom](/)
+- [Diffusion Monte-Carlo & Hydrogen atom]
 
-- [Lancoz algorithm](/)
+- [Lancoz algorithm]
 
-- [Transverse field Ising model & Quantum phase transition](/)
+- [Transverse field Ising model & Quantum phase transition]
   
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -58,13 +58,13 @@ Quantum Monte-Carlo and Exact diagonalization for some basic models from quantum
 ## Projects in physics
 Here are some experimental projects in physics that I've made:
 
-- [Dopler & Sub-dopler spectroscopy of Rb](/)
+- [Dopler & Sub-dopler spectroscopy of Rb]
 
-- [Acoustic levitator](/)
+- [Acoustic levitator]
 
-- [Domain walls in YiG thin films](/)
+- [Domain walls in YiG thin films]
 
-- [Photonic crystall: Experiment, Comsol, Video-processing](/)
+- [Photonic crystall: Experiment, Comsol, Video-processing]
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -72,15 +72,17 @@ Here are some experimental projects in physics that I've made:
 
 ## Other projects
 
-- [Stability chart of Mathieu equation](/)
+- [Stability chart of Mathieu equation]
 
-- [Spectrum of random matrices: Gauss, Gap and Graphs](/)
+- [Spectrum of random matrices: Gauss, Gap and Graphs]
 
-- [Stern-Gerlach experiment](/)
+- [Stern-Gerlach experiment]
 
-- [Rabi oscillations & Bloch-Siegert shift](/)
+- [Rabi oscillations & Bloch-Siegert shift]
 
-- [Jaynes-Cummings model: Revivals](/)
+- [Jaynes-Cummings model: Revivals]
+
+- [XY model]
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
