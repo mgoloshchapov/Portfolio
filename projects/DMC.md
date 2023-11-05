@@ -26,8 +26,7 @@ If initial projection of state on the ground state is not zero, we will eventual
   </p> 
 </p>
 
-At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims life cycles in the double well potential:
-
+At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims lives in the double well potential:
 
 
 
