@@ -1,8 +1,32 @@
 ### Diffusion Monte Carlo
 
-Diffusion Monte-Carlo(DMC) is a useful tool for computing groundstate wavefunction and energy of quantum systems.
+Diffusion Monte-Carlo method is a useful tool for computing groundstate wavefunction and energy of quantum system. [Here]() I implement the DMC algorithm and give few examples of its work.
 
-[Here]() I implement the DMC algorithm and test it on several 
-basic systems: harmonic oscillator, double well, Hydrogen atom.
+__Basic idea__
 
-![DMC groundstate for harmonic oscillator](/projects/sources/harmonic.jpg)
+Suppose you want to find groundstate wavefunction and energy of a quantum system. If we replace time with imaginary time $t \rightarrow - i\tau$, arbitrary state will evolve as:
+
+$$\left| \psi(\tau) \right>  = \sum_{n}c_n e^{- E_n \tau/ \hbar} \left| \psi_n \right>$$
+
+We see that all summands decay exponentially. Now if we make energy shift equal to the ground state energy $E_0$, arbitrary state would evolve as
+
+$$\left| \psi(\tau) \right>  =c_0 \left| \psi_0 \right>  + \sum_{n \neq 0}c_n e^{- (E_n-E_0) \tau/ \hbar} \left| \psi_n \right>,$$
+
+so as $\tau \rightarrow \infty$ 
+
+$$\left| \psi(\tau) \right> \rightarrow c_0 \left| \psi_0 \right> .$$
+
+If initial projection of state on the ground state is not zero, we will eventually receive ground state of our system. By running algorithm with different energy shifts $E$ we can find one that doesn't grow/decay exponentially, which would correspond to ground state energy $E_0$.
+
+
+<p align="center">
+  <img src="/projects/sources/harmonic.jpg" />
+  <p align="center">
+    Fig. 1: DMC groundstate for harmonic oscillator
+  </p> 
+</p>
+
+
+
+
+
