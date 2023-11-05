@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 ### Diffusion Monte Carlo
 
 Diffusion Monte-Carlo method is a useful tool for computing groundstate wavefunction and energy of quantum system. [Here]() I implement the DMC algorithm and give few examples of its work.
