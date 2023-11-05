@@ -12,6 +12,7 @@ I love working with cold atoms and quantum computers. Here is some modelling tha
 
 - [Raman gate infidelity](/)
 
+
 # Projects
 
 ## Ising model: random-bond, pinning, CNN.
@@ -19,9 +20,13 @@ I love working with cold atoms and quantum computers. Here is some modelling tha
 Ising models with different types of interactions are studied using single-spin flip Monte-Carlo: 
 
 - [Ferro- and antiferromagnetic](/sample_page)
+  
 - [Next-nearest neighbour & Dipolar interactions](/)
+  
 - [Random-bond Ising phase diagram](/)
+  
 - [Domain wall pinning & Magnetic memory](/)
+
 - [CNN classification of temperature](/)
 
 
@@ -45,22 +50,41 @@ Quantum Monte-Carlo and Exact diagonalization for some basic models from quantum
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+# Cool things on different topics
+
+## Projects in physics
+Here are some experimental projects in physics that I've made:
+
+- [Dopler & Sub-dopler spectroscopy of Rb](/)
+
+- [Acoustic levitator](/)
+
+- [Domain walls in YiG thin films](/)
+
+- [Photonic crystall: Experiment, Comsol, Video-processing](/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-## 
+## Other projects
 
-- []
+- [Stability chart of Mathieu equation](/)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Spectrum of random matrices: Gauss, Gap and Graphs](/)
+
+- [Stern-Gerlach experiment](/)
+
+- [Rabi oscillations & Bloch-Siegert shift](/)
+
+- [Jaynes-Cummings model: Revivals](/)
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+
 
 
 
