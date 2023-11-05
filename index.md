@@ -1,8 +1,18 @@
-## Portfolio
+# Cold Atoms
 
----
+I love working with cold atoms and quantum computers. Here is some modelling that I've made in my laboratory:
 
-### Projects
+- [MCMC Sampler for atom in the dipole trap](/)
+  
+- [Laser phase noise & Qubit](/)
+
+- [Atom temperature: Release & Recapture](/)
+
+- [Trap parameters: Parametric excitation](/)
+
+- [Raman gate infidelity](/)
+
+# Projects
 
 ## Ising model: random-bond, pinning, CNN.
 
@@ -18,7 +28,20 @@ Ising models with different types of interactions are studied using single-spin 
 <img src="images/Ising_Logo.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+## Computational methods for quantum models.
+
+Quantum Monte-Carlo and Exact diagonalization for some basic models from quantum mechanics and many-body physics:
+
+- [Stochastic Series Expansion & Heisenberg model](/)
+
+- [Diffusion Monte-Carlo & Hydrogen atom](/)
+
+- [Lancoz algorithm](/)
+
+- [Transverse field Ising model & Quantum phase transition](/)
+  
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -27,7 +50,9 @@ Ising models with different types of interactions are studied using single-spin 
 
 ---
 
-### Category Name 2
+## 
+
+- []
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
