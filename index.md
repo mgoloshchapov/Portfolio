@@ -44,8 +44,6 @@ Quantum Monte-Carlo and Exact diagonalization for some basic models from quantum
 
 - [Diffusion Monte-Carlo & Hydrogen atom]
 
-- [Lancoz algorithm]
-
 - [Transverse field Ising model & Quantum phase transition]
   
 
