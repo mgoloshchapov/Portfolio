@@ -42,7 +42,7 @@ Quantum Monte-Carlo and Exact diagonalization for some basic models from quantum
 
 - [Stochastic Series Expansion & Heisenberg model]
 
-- [Diffusion Monte-Carlo & Hydrogen atom]
+- [Diffusion Monte-Carlo & Hydrogen atom](/Portfolio/projects/DMC)
 
 - [Transverse field Ising model & Quantum phase transition]
   
