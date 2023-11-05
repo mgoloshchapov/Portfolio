@@ -42,9 +42,13 @@ At each iteration of DMC the pligrims diffuse and implement birth/death step. He
 Finally, DMC can be used to find groundstate of the Hydrogen atom:
 
 <p align="middle">
-  <img src="/projects/sources/hydrogen_invert.jpg" width="450"/>
+  <img src="/projects/sources/hydrogen_invert.jpg" width="600"/>
 
   <p align="center">
     Fig. 3: Hydrogen atom groundstate radial part.
   </p> 
 </p>
+
+References:
+
+[1] Ioan Kosztin et al., ["Introduction to the diffusion Monte-Carlo method"](https://arxiv.org/abs/physics/9702023v1)
