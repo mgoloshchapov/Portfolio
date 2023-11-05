@@ -2,9 +2,19 @@
 
 ---
 
-### Ising model with different interactions. Monte-Carlo study.
+### Projects
 
-[Project 1 Title](/sample_page)
+## Ising model: random-bond, pinning, CNN.
+
+Ising models with different types of interactions are studied using single-spin flip Monte-Carlo: 
+
+- [Ferro- and antiferromagnetic](/sample_page)
+- [Next-nearest neighbour & Dipolar interactions](/)
+- [Random-bond Ising phase diagram](/)
+- [Domain wall pinning & Magnetic memory](/)
+- [CNN classification of temperature](/)
+
+
 <img src="images/Ising_Logo.jpg?raw=true"/>
 
 ---
