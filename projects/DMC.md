@@ -42,7 +42,7 @@ At each iteration of DMC the pligrims diffuse and implement birth/death step. He
 Finally, DMC can be used to find groundstate of the Hydrogen atom:
 
 <p align="middle">
-  <img src="/projects/sources/hydrogen.jpg" width="450"/>
+  <img src="/projects/sources/hydrogen_invert.jpg" width="450"/>
 
   <p align="center">
     Fig. 3: Hydrogen atom groundstate radial part.
