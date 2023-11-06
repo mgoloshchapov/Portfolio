@@ -23,7 +23,7 @@ Ising models with different types of interactions are studied using single-spin 
 
 - [Domain wall pinning & Magnetic memory](/Portfolio/projects/PinningMemory/PinningMemory)
 
-- [Random-bond Ising phase diagram]
+- [Random-bond Ising phase diagram](/Portfolio/projects/RandomIsing/RandomIsing)
 
 - [CNN classification of temperature](/Portfolio/projects/CNN_Ising/CNN_Ising)
 
