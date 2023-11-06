@@ -20,7 +20,7 @@ If initial projection of state on the ground state is not zero, we will eventual
 
 
 <p align="center">
-  <img src="/assets/DMC_images/harmonic.jpg" />
+  <img src="/images/DMC/harmonic.jpg" />
   <p align="center">
     Fig. 1: DMC groundstate for harmonic oscillator
   </p> 
