@@ -26,14 +26,12 @@ If initial projection of state on the ground state is not zero, we will eventual
   </p> 
 </p>
 
-<img src="{{site.url}}/images/dummy_thumbnail.jpg"/>
-
 At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims lives in the double well potential and sampling of groundstate wavefunction.
 
 <p align="middle">
-  <img src="/projects/sources/dw_path_crop.gif" width="450"/>
+  <img src="./sources/dw_path_crop.gif" width="450"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/projects/sources/dw_dmc.gif" width="450"/>
+  <img src="./sources/dw_dmc.gif" width="450"/>
 
   <p align="center">
     Fig. 2: Left: Pligrims birth&death processes. Right: groundstate sampling.
@@ -44,7 +42,7 @@ At each iteration of DMC the pligrims diffuse and implement birth/death step. He
 Finally, DMC can be used to find groundstate of the Hydrogen atom:
 
 <p align="middle">
-  <img src="/projects/sources/hydrogen_invert.jpg" width="600"/>
+  <img src="./sources/hydrogen_invert.jpg" width="600"/>
 
   <p align="center">
     Fig. 3: Hydrogen atom groundstate radial part.
