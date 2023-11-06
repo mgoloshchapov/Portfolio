@@ -1,6 +1,6 @@
 ### Diffusion Monte Carlo
 
-Diffusion Monte-Carlo method is a useful tool for computing groundstate wavefunction and energy of quantum system. [Here]() I implement the DMC algorithm and give few examples of its work.
+Diffusion Monte-Carlo is a useful tool for computing groundstate wavefunction and energy of quantum systems. [Here]() I implement basic version of DMC algorithm and give several examples of its work.
 
 __Basic idea__
 
@@ -25,8 +25,6 @@ If initial projection of state on the ground state is not zero, we will eventual
     Fig. 1: DMC groundstate for harmonic oscillator
   </p> 
 </p>
-
-![DMC](/projects/sources/harmonic.jpg)
 
 At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims lives in the double well potential and sampling of groundstate wavefunction.
 
