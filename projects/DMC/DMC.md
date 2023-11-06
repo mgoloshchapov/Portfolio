@@ -19,7 +19,7 @@ $$\left| \psi(\tau) \right> \rightarrow c_0 \left| \psi_0 \right> .$$
 If initial projection of state on the ground state is not zero, we will eventually receive ground state of our system. By running algorithm with different energy shifts $E$ we can find one that doesn't grow/decay exponentially, which would correspond to ground state energy $E_0$.
 
 <p align="center">
-  <img src="./sources/harmonic.jpg" />
+  <img src="./images/harmonic.jpg" />
   <p align="center">
     Fig. 1: DMC groundstate for harmonic oscillator
   </p> 
@@ -36,7 +36,7 @@ To implement the above idea DMC initializes particles in the desired potential a
 Here is the visualization of particles in the double well potential and sampling of groundstate wavefunction. As the particle approaches coordinate where wavefunction(and hence probability) is close to zero, it likely dies(red circles). On the other hand, particles give birth in regions, where wavefunction amplitude is large(green circles).
 
 <p align="middle">
-  <img src="./sources/dw_path_crop.gif"/>
+  <img src="./images/dw_path_crop.gif"/>
 
   <p align="center">
     Fig. 2: Pligrims birth&death processes in the double-well.
@@ -45,7 +45,7 @@ Here is the visualization of particles in the double well potential and sampling
 
 
 <p align="middle">
-  <img src="./sources/dw_dmc.gif"/>
+  <img src="./images/dw_dmc.gif"/>
 
   <p align="center">
     Fig. 3: Groundstate sampling in the double-well.
