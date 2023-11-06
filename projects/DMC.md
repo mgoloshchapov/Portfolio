@@ -1,6 +1,6 @@
 ### Diffusion Monte Carlo
 
-Diffusion Monte-Carlo method is a useful tool for computing groundstate wavefunction and energy of quantum system. [Here]() I implement the DMC algorithm and give few examples of its work.
+Diffusion Monte-Carlo is a useful tool for computing groundstate wavefunction and energy of quantum systems. [Here]() I implement basic version of DMC algorithm and give several examples of its work.
 
 __Basic idea__
 
@@ -26,12 +26,29 @@ If initial projection of state on the ground state is not zero, we will eventual
   </p> 
 </p>
 
-At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims lives in the double well potential:
+At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims lives in the double well potential and sampling of groundstate wavefunction.
 
-<p align="center">
-  <img src="/projects/sources/dw_path_crop.gif" />
+<p align="middle">
+  <img src="/projects/sources/dw_path_crop.gif" width="450"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/projects/sources/dw_dmc.gif" width="450"/>
+
   <p align="center">
-    Fig. 2: Pligrims birth&death processes in the double well potential.
+    Fig. 2: Left: Pligrims birth&death processes. Right: groundstate sampling.
   </p> 
 </p>
 
+
+Finally, DMC can be used to find groundstate of the Hydrogen atom:
+
+<p align="middle">
+  <img src="/projects/sources/hydrogen_invert.jpg" width="600"/>
+
+  <p align="center">
+    Fig. 3: Hydrogen atom groundstate radial part.
+  </p> 
+</p>
+
+References:
+
+[1] Ioan Kosztin et al., ["Introduction to the diffusion Monte-Carlo method"](https://arxiv.org/abs/physics/9702023v1)
