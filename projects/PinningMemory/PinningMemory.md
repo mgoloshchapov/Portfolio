@@ -46,3 +46,5 @@ square cell size, adjacent cells almost don't interact with each other, so infor
     Fig. 4: Local magnetic field changes magnetization of cells. Monte-Carlo sweeps don't change magnetization of cells.
   </p> 
 </p>
+
+Jupyter-notebook can be found [here](/https://github.com/mgoloshchapov/Sandbox/blob/main/Ising/notebooks/main.ipynb).
