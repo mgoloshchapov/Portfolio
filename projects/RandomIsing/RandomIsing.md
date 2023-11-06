@@ -9,7 +9,9 @@ Consider Ising model on 2D lattice with next-nearest-neighbour interactions.
 antiferromagnetically with probability $1-p$
 
 Using single-spin-flip Monte-Carlo we can generate spin configurations and measure correlation 
-length between spins with autocorrelation function. Tuning probability $p$ and temperature $T$ of this model, we
+length between spins with autocorrelation function. 
+
+Tuning probability $p$ and temperature $T$, we
 receive phase diagram of random-bond Ising model!
 
 <p align="middle">
