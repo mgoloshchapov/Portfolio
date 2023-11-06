@@ -26,6 +26,8 @@ If initial projection of state on the ground state is not zero, we will eventual
   </p> 
 </p>
 
+![DMC](/projects/sources/harmonic.jpg)
+
 At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims lives in the double well potential and sampling of groundstate wavefunction.
 
 <p align="middle">
