@@ -1,8 +1,8 @@
 ### Diffusion Monte Carlo
 
-Diffusion Monte-Carlo is a useful tool for computing groundstate wavefunction and energy of quantum systems. [Here]() I implement basic version of DMC algorithm and give several examples of its work.
+Diffusion Monte-Carlo is a useful tool for computing groundstate wavefunction and energy of quantum systems. [Here](https://github.com/mgoloshchapov/Sandbox/blob/main/ComputationalQM/DMC/DMC.ipynb) I implement basic version of DMC algorithm and give several examples of its work.
 
-__Basic idea__
+__Idea and Examples__
 
 Suppose you want to find groundstate wavefunction and energy of a quantum system. If we replace time with imaginary time $t \rightarrow - i\tau$, arbitrary state will evolve as:
 
@@ -18,7 +18,6 @@ $$\left| \psi(\tau) \right> \rightarrow c_0 \left| \psi_0 \right> .$$
 
 If initial projection of state on the ground state is not zero, we will eventually receive ground state of our system. By running algorithm with different energy shifts $E$ we can find one that doesn't grow/decay exponentially, which would correspond to ground state energy $E_0$.
 
-
 <p align="center">
   <img src="./sources/harmonic.jpg" />
   <p align="center">
@@ -26,7 +25,15 @@ If initial projection of state on the ground state is not zero, we will eventual
   </p> 
 </p>
 
-At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims lives in the double well potential and sampling of groundstate wavefunction. As the pligrim approaches coordinate where wavefunction(and hence probability) is close to zero, it is likely to die(red circles. On the other hand, pligrims give birth in regions, where wavefunction amplitude is large(green circles).
+To implement the above idea DMC initializes particles in the desired potential and starts branching random walk consisting of two steps:
+
+- _Diffusive displacements_.
+  Particles randomly walk and visit different states. 
+
+- _Birth-Death processes_.
+  Each particle is either replicated or removed depending on the potential energy in the current state.
+
+Here is the visualization of particles in the double well potential and sampling of groundstate wavefunction. As the particle approaches coordinate where wavefunction(and hence probability) is close to zero, it likely dies(red circles). On the other hand, particles give birth in regions, where wavefunction amplitude is large(green circles).
 
 <p align="middle">
   <img src="./sources/dw_path_crop.gif"/>
