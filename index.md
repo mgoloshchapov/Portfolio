@@ -21,15 +21,15 @@ I love working with cold atoms and quantum computers. Here is some modelling tha
 
 Ising models with different types of interactions are studied using single-spin flip Monte-Carlo: 
 
-- [Ferro- and antiferromagnetic]
-  
-- [Next-nearest neighbour & Dipolar interactions]
-  
-- [Random-bond Ising phase diagram]
-  
-- [Domain wall pinning & Magnetic memory]
+- [Domain wall pinning & Magnetic memory](/Portfolio/projects/PinningMemory/PinningMemory)
 
-- [CNN classification of temperature]
+- [Random-bond Ising phase diagram]
+
+- [CNN classification of temperature](/Portfolio/projects/CNN_Ising/CNN_Ising)
+
+- [Ferro- and antiferromagnetic]
+
+- [Next-nearest neighbour & Dipolar interactions]
 
 
 <img src="images/Ising_Logo.jpg?raw=true"/>
