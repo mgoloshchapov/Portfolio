@@ -20,13 +20,13 @@ If initial projection of state on the ground state is not zero, we will eventual
 
 
 <p align="center">
-  <img src="images/DMC/harmonic.jpg?raw=true" />
+  <img src="{{site.url}}/images/DMC/harmonic.jpg" />
   <p align="center">
     Fig. 1: DMC groundstate for harmonic oscillator
   </p> 
 </p>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="{{site.url}}/images/dummy_thumbnail.jpg"/>
 
 At each iteration of DMC the pligrims diffuse and implement birth/death step. Here is the visualization of pligrims lives in the double well potential and sampling of groundstate wavefunction.
 
