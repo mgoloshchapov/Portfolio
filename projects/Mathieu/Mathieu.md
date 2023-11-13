@@ -1,9 +1,9 @@
 __Mathieu equation stability diagram__
 
-[]()
-[]()
+[Mathematica notebook(.pdf)](https://github.com/mgoloshchapov/Portfolio/blob/master/projects/Mathieu/Mathieu_notebook.pdf)
 
-Stability regions of Mathieu equation.
+[Mathematica notebook(.nb)](https://github.com/mgoloshchapov/Portfolio/blob/master/projects/Mathieu/Mathieu.nb)
+
 
 <p align="middle">
   <img src="./stability.jpeg"/>
