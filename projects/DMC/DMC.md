@@ -57,7 +57,7 @@ Here is the visualization of particles in the double well potential and sampling
 Finally, DMC can be used to find groundstate of the Hydrogen atom:
 
 <p align="middle">
-  <img src="./sources/hydrogen_invert.jpg"/>
+  <img src="./images/hydrogen_invert.jpg"/>
 
   <p align="center">
     Fig. 3: Hydrogen atom groundstate radial part.
