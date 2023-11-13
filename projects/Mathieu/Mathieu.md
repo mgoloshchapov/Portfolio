@@ -27,6 +27,6 @@ $$H = -\frac{\hbar^2}{2m}\frac{d^2}{dx^2} + \frac{V_0}{2}\cos\left(2kx\right)$$
 
 __References:__
 
-[1] https://personal.math.ubc.ca/~ward/teaching/m605/every2_floquet1.pdf
+[1] [https://personal.math.ubc.ca/~ward/teaching/m605/every2_floquet1.pdf](https://personal.math.ubc.ca/~ward/teaching/m605/every2_floquet1.pdf)
 
 [2] Martin Holthaus, "Floquet engineering with quasienergy bands of periodically driven optical lattices"
