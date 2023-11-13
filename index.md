@@ -68,7 +68,7 @@ Here are some experimental projects in physics that I've made:
 
 ## Other projects
 
-- [Stability chart of Mathieu equation]
+- [Stability chart of Mathieu equation](/Portfolio/projects/Mathieu/Mathieu)
 
 - [Spectrum of random matrices: Gauss, Gap and Graphs]
 
