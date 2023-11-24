@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>Hi, I'm Misha! I love AMO Physics, Condensed matter and physical modelling. 
   Currently working on neutral atom quantum computers. <br>
 
-  <a href="https://www.tutorialstonight.com/">Click here</a>
+  <a href="https://github.com/mgoloshchapov/Portfolio/blob/master/CV_2023.pdf">CV</a>
 markdown: kramdown
 kramdown:
    math_engine: mathjax
