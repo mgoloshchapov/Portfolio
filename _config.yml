@@ -1,10 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/photo.jpg?raw=true" # your photo (or logo) here
+title: Mikhail Goloshchapov # your name (or website title) here
+logo: "/images/photo_small.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>Hi! I'm Misha, I love AMO Physics, Condesned matter and Modelling various systems.<br>
-  Second description 
+  <br>Hi! I'm Misha, I love AMO Physics, Condensed matter and Modelling various systems.<br>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/mgoloshchapov/Portfolio/blob/master/CV_2023.pdf">CV</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
