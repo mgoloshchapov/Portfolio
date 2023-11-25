@@ -3,7 +3,7 @@ logo: "/images/photo_small.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>Hi! I'm Misha, I love AMO Physics, Condensed matter and Modelling various systems.<br>
   <a href="https://github.com/mgoloshchapov/Portfolio/blob/master/CV_2023.pdf">CV</a> 
-  <br>Email: <a href="mailto:goloshchapov.miu@phystech.edu">goloshchapov.miu@phystech.edu</a></br>
+  <br>Email: goloshchapov.miu@phystech.edu</br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
