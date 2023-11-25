@@ -2,6 +2,8 @@
 
 I love working with cold atoms and quantum computers. Here is some modelling that I've made in my laboratory:
 
+- [Two-photon Rydberg state excitation decoherence]
+
 - [MCMC Sampler for atom in the dipole trap]
   
 - [Laser phase noise & Qubit]
