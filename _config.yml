@@ -2,12 +2,8 @@ title: Mikhail Goloshchapov # your name (or website title) here
 logo: "/images/photo_small.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    
-  <br>Hi, I'm Misha! 
-  
-  I love AMO Physics, Condensed matter and physical modelling. 
-  Currently working on neutral atom quantum computers. 
-  
-  <br>
+  <br>Hi, I'm Misha! I love AMO Physics, Condensed matter and physical modelling. Currently working on neutral atom quantum computers. <br>
+
 
   
 markdown: kramdown
