@@ -1,16 +1,10 @@
-title: Mikhail Goloshchapov # your name (or website title) here
-logo: "/images/photo_small.jpg?raw=true" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-   
-  <br>Hi, I'm Misha! I love AMO Physics, Condensed matter and physical modelling. Currently working on neutral atom quantum computers. <br>
-
-
-  
-markdown: kramdown
-kramdown:
-   math_engine: mathjax
-   
-url: https://mgoloshchapov.github.io/
+  <br>Hi! I'm Misha, I love AMO Physics, Condesned matter and Modelling various systems.<br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
