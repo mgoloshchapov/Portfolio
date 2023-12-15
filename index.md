@@ -2,6 +2,8 @@
 
 # Projects
 
+---
+
 ## Cold Atoms
 
 - [Two-photon Rydberg excitation with spontaneous decay]
@@ -12,6 +14,7 @@
 
 - [Dopler & Sub-dopler spectroscopy of Rb]
 
+---
 
 ## Ising model: random-bond, pinning, CNN. 
 
