@@ -5,7 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
         a senior year student at the Moscow Institute of Physics and Technology. 
         Currently, I work on quantum computation on individual neutral atoms trapped 
         in arrays of optical tweezers.  <br>
+  <br> </br>
   <a href="https://github.com/mgoloshchapov/Portfolio/blob/master/CV_2023.pdf">CV</a> 
+  <br> </br>
   <br>Email: goloshchapov.miu@gmail.com</br>
   
 remote_theme: pages-themes/minimal@v0.2.0
