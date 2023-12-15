@@ -1,23 +1,17 @@
-# Cold Atoms
-
-I love working with cold atoms and quantum computers. Here is some modelling that I've made in my laboratory:
-
-- [Two-photon Rydberg state excitation decoherence]
-
-- [MCMC Sampler for atom in the dipole trap]
-  
-- [Laser phase noise & Qubit]
-
-- [Atom temperature: Release & Recapture]
-
-- [Trap parameters: Parametric excitation]
-
-- [Raman gate infidelity]
-
-- [SLM Phase masks]
 
 
 # Projects
+
+## Cold Atoms
+
+Here is some modelling that I've made in my laboratory:
+
+- [Two-photon Rydberg excitation with spontaneous decay]
+  
+- [Laser phase noise and Qubit]
+
+- [Atom temperature: Release & Recapture](/Portfolio/projects/Rel&Rec/Rel&Rec)
+
 
 ## Ising model: random-bond, pinning, CNN.
 
