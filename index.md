@@ -8,7 +8,7 @@ Here is some modelling that I've made in my laboratory:
 
 - [Two-photon Rydberg excitation with spontaneous decay]
   
-- [Laser phase noise and Qubit]
+- [Laser Phase Noise and Qubit](/Portfolio/projects/LaserNoise/LaserNoise)
 
 - [Atom temperature: Release & Recapture](/Portfolio/projects/Rel&Rec/Rel&Rec)
 
