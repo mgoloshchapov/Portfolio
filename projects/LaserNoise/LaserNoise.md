@@ -4,7 +4,7 @@ Frequency stablization of laser to a reference cavity leads to the emergence of 
 Also, there is a white noise in spectral density of the laser phase noise. 
 
 <p align="middle">
-  <img src="./images/spectral densities.jpg"/>
+  <img src="./images/spectral_densities.jpg"/>
 
   <p align="center">
     Fig. 1: Laser phase noise spectral density.
