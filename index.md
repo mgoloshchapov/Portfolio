@@ -4,18 +4,16 @@
 
 ## Cold Atoms
 
-Here is some modelling that I've made in my laboratory:
-
 - [Two-photon Rydberg excitation with spontaneous decay]
   
 - [Laser Phase Noise and Qubit](/Portfolio/projects/LaserNoise/LaserNoise)
 
 - [Atom temperature: Release & Recapture](/Portfolio/projects/Rel&Rec/Rel&Rec)
 
+- [Dopler & Sub-dopler spectroscopy of Rb]
 
-## Ising model: random-bond, pinning, CNN.
 
-Ising models with different types of interactions are studied using single-spin flip Monte-Carlo: 
+## Ising model: random-bond, pinning, CNN. 
 
 - [Domain wall pinning & Magnetic memory](/Portfolio/projects/PinningMemory/PinningMemory)
 
@@ -32,25 +30,7 @@ Ising models with different types of interactions are studied using single-spin 
 
 ---
 
-## Computational methods for quantum models.
-
-Quantum Monte-Carlo and Exact diagonalization for some basic models from quantum mechanics and many-body physics:
-
-- [Stochastic Series Expansion & Heisenberg model]
-
-- [Diffusion Monte-Carlo & Hydrogen atom](/Portfolio/projects/DMC/DMC)
-
-- [Transverse field Ising model & Quantum phase transition]
-  
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ## Projects in physics
-Here are some experimental projects in physics that I've made:
-
-- [Dopler & Sub-dopler spectroscopy of Rb]
 
 - [Acoustic levitator]
 
@@ -58,11 +38,11 @@ Here are some experimental projects in physics that I've made:
 
 - [Photonic crystall: Experiment, Comsol, Video-processing]
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ## Other projects
+
+- [Diffusion Monte-Carlo and Hydrogen atom](/Portfolio/projects/DMC/DMC)
 
 - [Stability chart of Mathieu equation](/Portfolio/projects/Mathieu/Mathieu)
 
@@ -74,17 +54,4 @@ Here are some experimental projects in physics that I've made:
 
 - [Jaynes-Cummings model: Revivals]
 
-- [XY model]
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
-
-
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
