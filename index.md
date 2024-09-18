@@ -36,4 +36,6 @@
 ## Other projects
 
 - [Stability chart of Mathieu equation](/Portfolio/projects/Mathieu/Mathieu)
+
+
 ---
