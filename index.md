@@ -12,8 +12,6 @@
 
 - [Atom temperature: Release & Recapture](/Portfolio/projects/Rel&Rec/Rel&Rec)
 
-- [Dopler & Sub-dopler spectroscopy of Rb]
-
 ---
 
 ## Ising model: random-bond, pinning, CNN. 
@@ -23,10 +21,6 @@
 - [Random-bond Ising phase diagram](/Portfolio/projects/RandomIsing/RandomIsing)
 
 - [CNN classification of temperature](/Portfolio/projects/CNN_Ising/CNN_Ising)
-
-- [Ferro- and antiferromagnetic]
-
-- [Next-nearest neighbour & Dipolar interactions]
 
 
 <img src="images/Ising_Logo.jpg?raw=true"/>
@@ -42,6 +36,4 @@
 ## Other projects
 
 - [Stability chart of Mathieu equation](/Portfolio/projects/Mathieu/Mathieu)
-
-- [Spectrum of random matrices: Gauss, Gap and Graphs]
 ---
