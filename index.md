@@ -6,7 +6,7 @@
 
 ## Cold Atoms
 
-- [Two-photon Rydberg excitation with spontaneous decay]
+- [Two-photon Rydberg excitation with spontaneous decay](/Portfolio/main_eng.pdf)
   
 - [Laser Phase Noise and Qubit](/Portfolio/projects/LaserNoise/LaserNoise)
 
@@ -33,28 +33,15 @@
 
 ---
 
-## Projects in physics
+## Quantum Many Body Physics
 
-- [Acoustic levitator]
 
-- [Domain walls in YiG thin films]
-
-- [Photonic crystall: Experiment, Comsol, Video-processing]
-
----
+- [DMRG investigation of Bose-Hubbard and extended Bose-Hubbard models](https://github.com/mgoloshchapov/Bose-Hubbard-phases)
+- [Diffusion Monte-Carlo and Hydrogen atom](/Portfolio/projects/DMC/DMC)
 
 ## Other projects
-
-- [Diffusion Monte-Carlo and Hydrogen atom](/Portfolio/projects/DMC/DMC)
 
 - [Stability chart of Mathieu equation](/Portfolio/projects/Mathieu/Mathieu)
 
 - [Spectrum of random matrices: Gauss, Gap and Graphs]
-
-- [Stern-Gerlach experiment]
-
-- [Rabi oscillations & Bloch-Siegert shift]
-
-- [Jaynes-Cummings model: Revivals]
-
 ---
